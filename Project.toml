@@ -1,0 +1,6 @@
+authors = ["staticfloat@gmail.com <staticfloat@gmail.com>"]
+name = "TravisLibgit2Trigger"
+uuid = "771ce106-ad47-11e8-2296-355e3186b8ac"
+version = "0.1.0"
+
+[deps]
